@@ -40,10 +40,12 @@ You can create slider for anything you want by using same css classes.
     
 ```
 
+---------
+
 - In order to customize width of any slider-element, provide custom value to min-width propery of that slider-element.
 
 ### Demo
-For demo and use cases, refer [this](https://github.com/ayanshaikh18/css-slider/blob/main/index.html).
+For demo and use cases, refer [this file](https://github.com/ayanshaikh18/css-slider/blob/main/index.html).
 
 ### Live
 Demo is running live [here](https://ayanshaikh18.github.io/css-slider/index.html).
