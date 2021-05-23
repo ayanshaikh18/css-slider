@@ -22,7 +22,7 @@ You can create slider for anything you want by using same css classes.
 - Follow the html structures as described below :-
 
 ```html
-  <div class="slider-container" id="tmp">
+  <div class="slider-container">
     <div class="slider-element">
       <!-- Code for your html tags -->            
     </div>
