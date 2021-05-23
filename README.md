@@ -50,3 +50,5 @@ For demo and use cases, refer [this file](https://github.com/ayanshaikh18/css-sl
 ### Live
 Demo is running live [here](https://ayanshaikh18.github.io/css-slider/index.html).
 
+### Codepen Link :- 
+https://codepen.io/ayanshaikh18/pen/QWppzwa
